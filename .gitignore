@@ -1,0 +1,6 @@
+*.exe
+*.mti
+*.mpf
+**/work/
+*.bak
+*/.vscode/
