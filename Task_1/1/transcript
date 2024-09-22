@@ -2980,3 +2980,5 @@ run -all
 #    Time: 256 sec  Iteration: 0  Instance: /test
 # Break in Module test at C:/Users/Anton/Documents/verilog_projects/Designing_digital_devices_on_FPGAs/Task_1/1/test.v line 270
 restart
+# End time: 13:14:55 on Sep 15,2024, Elapsed time: 15:06:48
+# Errors: 0, Warnings: 1
