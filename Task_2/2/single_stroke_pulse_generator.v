@@ -6,7 +6,7 @@ module single_stroke_pulse_generator (
 
     reg [2:0] number_cycles;   
 
-    always @(posedge clk or posedge reset) 
+    always @(posedge clk) 
         begin
             if (reset) 
                 begin
